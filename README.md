@@ -13,18 +13,18 @@
 
 -> Step 3 :
 
-- URL: https://wa.cloudlinkd.com/send-message
+- URL: https://wa.cloudlinkd.com/api/send/whatsapp
 
-- Send to parameter name : number
+- Send to parameter name : recipient
 
 - Message parameter name : message
 
 - Request Method : POST
 
-- Parameter 1 key : api_key
-- Parameter 1 value : your-cloudlinkd-api-key from your https://wa.cloudlinkd.com account
+- Parameter 1 key : secret
+- Parameter 1 value : YOUR-CLOUDLINKD-API-SECRET from your https://wa.cloudlinkd.com account
 
-- Parameter 2 key: sender
-- Parameter 2 value: Enter your Device/Phone Number ( *Country code without + )
+- Parameter 2 key: account
+- Parameter 2 value: YOUR-CLOUDLINKD-WHATSAPP-ACCOUNT-UNIQUE-ID from your https://wa.cloudlinkd.com account
 
 -> Step 4 : Testing -> enter-your-whatsapp-number -> Send Test SMS
