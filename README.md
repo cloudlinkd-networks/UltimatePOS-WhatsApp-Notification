@@ -28,3 +28,29 @@
 - Parameter 2 value: YOUR-CLOUDLINKD-WHATSAPP-ACCOUNT-UNIQUE-ID from your https://wa.cloudlinkd.com account
 
 -> Step 4 : Testing -> enter-your-whatsapp-number -> Send Test SMS
+
+## Settings 1 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/UltimatePOS-WhatsApp-Notification/refs/heads/main/ultimatepos-1-s.png)
+
+## Settings 2 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/UltimatePOS-WhatsApp-Notification/refs/heads/main/ultimatepos-2-s.png)
+
+## Settings 3 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/UltimatePOS-WhatsApp-Notification/refs/heads/main/ultimatepos-3-s.png)
+
+## Settings 4 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/UltimatePOS-WhatsApp-Notification/refs/heads/main/ultimatepos-4-s.png)
+
+## Settings 5 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/UltimatePOS-WhatsApp-Notification/refs/heads/main/ultimatepos-5-s.png)
+
+----------
+
+## Credits
+
+All credits to the [Team CloudLinkd](https://www.cloudlinkd.com) and the original creators of these files.</br>
