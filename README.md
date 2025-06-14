@@ -22,7 +22,7 @@
 - Request Method : POST
 
 - Parameter 1 key : api_key
-- Parameter 1 value : YOUR-CLOUDLINKD-API-SECRET from your https://wa.cloudlinkd.com account
+- Parameter 1 value : YOUR-CLOUDLINKD-API-KEY from your https://wa.cloudlinkd.com account
 
 - Parameter 2 key: sender
 - Parameter 2 value: Enter your Device/Phone Number ( *Country code without + )
